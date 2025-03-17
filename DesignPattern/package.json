@@ -1,9 +1,11 @@
 {
-  "name": "visitor",
+  "name": "design-patterns",
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
-    "dev": "tsx ./src/index.ts"
+    "dev": "tsx ./src/index.ts",
+    "test:visitor": "tsx ./src/Visitor.ts",
+    "test:commander": "tsx ./src/Commander.ts"
   },
   "author": "",
   "license": "ISC",
