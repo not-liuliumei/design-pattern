@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "tsx ./src/index.ts",
     "test:visitor": "tsx ./src/Visitor.ts",
-    "test:commander": "tsx ./src/Commander.ts"
+    "test:commander": "tsx ./src/Commander.ts",
+    "test:factory": "tsx ./src/Factory.ts"
   },
   "author": "",
   "license": "ISC",
