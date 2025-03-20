@@ -7,7 +7,8 @@
     "test:visitor": "tsx ./src/Visitor.ts",
     "test:commander": "tsx ./src/Commander.ts",
     "test:factory": "tsx ./src/Factory.ts",
-    "test:abstractFactory": "tsx ./src/AbstractFactory.ts"
+    "test:abstractFactory": "tsx ./src/AbstractFactory.ts",
+    "test:composite": "tsx ./src/Composite.ts"
   },
   "author": "",
   "license": "ISC",
