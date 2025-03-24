@@ -9,7 +9,8 @@
     "test:factory": "tsx ./src/Factory.ts",
     "test:abstractFactory": "tsx ./src/AbstractFactory.ts",
     "test:composite": "tsx ./src/Composite.ts",
-    "test:strategy": "tsx ./src/Strategy.ts"
+    "test:strategy": "tsx ./src/Strategy.ts",
+    "test:template": "tsx ./src/Template.ts"
   },
   "author": "",
   "license": "ISC",
