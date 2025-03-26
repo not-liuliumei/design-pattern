@@ -10,7 +10,8 @@
     "test:abstractFactory": "tsx ./src/AbstractFactory.ts",
     "test:composite": "tsx ./src/Composite.ts",
     "test:strategy": "tsx ./src/Strategy.ts",
-    "test:template": "tsx ./src/Template.ts"
+    "test:template": "tsx ./src/Template.ts",
+    "test:singleton": "tsx ./src/Singleton.ts"
   },
   "author": "",
   "license": "ISC",
